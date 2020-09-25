@@ -1,0 +1,3 @@
+[submodule "awesome-static-site/hugo-minimalist-spa"]
+	path = awesome-static-site/hugo-minimalist-spa
+	url = https://github.com/SAGGameDeveloper/hugo-minimalist-spa.git
